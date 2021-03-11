@@ -10,5 +10,6 @@
 	</head>
 	<body>
 		<h1>Hello, Git!</h1>
+		<p>폐기의 단축키는 Ctrl + Shift + R => 커밋하기 전 (Unstaging)에서 변경 내용을 취소</p>
 	</body>
 </html>
